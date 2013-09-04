@@ -1,7 +1,7 @@
 # Exam 0.0.1
 
-Lesson: Git and HTML
-Level: 1
+* Lesson: Git and HTML
+* Level: 1
 
 ### Hint #1:
 
